@@ -1,2 +1,2 @@
 # vr-fine-movement
- a sandbox for exploring fine movement options in VR.
+A sandbox for exploring fine movement options in virtual reality.
